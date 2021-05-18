@@ -1,0 +1,9 @@
+**/*.DS_Store
+*.idea/
+javafx-sdk-11.0.2/
+**/out
+
+**/.class
+**/META-INF
+checkstyle-8.24-all.jar
+cs2340_checks.xml
